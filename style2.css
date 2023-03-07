@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+  }
+  
+   li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: red;
+  }
+.h1 {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 0%;
+    
+}
+
+.HøyreBilde1 {
+    padding: 10px;
+    float: right;  
+
+}
+
+.list1 {
+padding: 15px;
+width: 10%;
+float: left;
+display: list-item; 
+background-color: rgb(255, 255, 255)
+}
+
+.innhold1 {
+padding: 15px;
+min-width: 100px;
+max-width: 100%;
+
+}
+
+.Sightseeing {
+padding-left: 20px;
+
+}
+
+.villefranche {
+place-content: right;
+ padding: 10px;
+}
